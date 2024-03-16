@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi there 👋 I'm Doniyor.
 
-<!--
-**Doniyor11/Doniyor11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a front-end developer**, currently at ssd.uz.
 
-Here are some ideas to get you started:
+### 🖥️ My top tech skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **JavaScript**
+  * Vue
+  * React
+  * ES6+
+  * jQuery
+  * Knockout
+* **CSS**
+  * Responsive design
+  * Sass
+  * Web animation and transitions
+* **HTML**
+  * Semantic, accessible, inclusive HTML5
+  * Templating (HAML, Twig, etc.)
+  * SVG
+* **PHP**
+  * WordPress (standard and headless)
+* **Ruby on Rails**
+
+### 🔨 Stuff I've built includes:
+* Numerous (progressive) web apps
+* Dozens of responsive, accessible websites
+* Rails apps
+
+### 📖 Some other things about me:
+    
+- 💬 **Ask me about**: React, Html, CSS, WordPress, responsive design…really, anything I might be able to answer. I love to help.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Doniyor11)
