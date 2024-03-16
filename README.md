@@ -9,7 +9,6 @@
   * React
   * ES6+
   * jQuery
-  * Knockout
 * **CSS**
   * Responsive design
   * Sass
